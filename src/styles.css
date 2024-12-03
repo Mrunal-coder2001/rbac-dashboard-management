@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  
+  .table {
+    margin-top: 20px;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .btn {
+    font-size: 0.9rem;
+  }
+  
